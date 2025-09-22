@@ -2,7 +2,7 @@
 **Full Stack Developer & Blockchain Engineer**
 
 📧 xojtaba@gmail.com | 📱 +968 92212401
-🔗 [LinkedIn](https://linkedin.com/in/TabbyCode) | 🐙 [GitHub](https://github.com/TabbyCode) | 🤖 [Stackoverflow](https://stackoverflow.com/users/4155138/tab)
+🔗 [LinkedIn](https://linkedin.com/in/tab-ahmadi) | 🐙 [GitHub](https://github.com/tab-sama) | 🤖 [Stackoverflow](https://stackoverflow.com/users/4155138/tab)
 📍 Muscat, Oman
 
 ---
