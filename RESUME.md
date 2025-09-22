@@ -16,7 +16,7 @@ Accomplished Lead Software Engineer and Blockchain Developer with a proven track
 ## Technical Skills
 
 ### Blockchain
-Cosmos SDK, Hyperledger, Solidity, Rust, Ethereum (EVM), Bitcoin (UTXO), Web3
+Cosmos SDK, Hyperledger, Solidity, Rust, Ethereum (EVM), Bitcoin (UTXO), Web3, Zero-knowledge proofs (ZKPs)
 
 ### Backend
 Golang (Go), Node.js, Python, PostgreSQL, Oracle, Elasticsearch, MongoDB, Neo4j, CQRS, DDD, Clean Architecture, Event-driven, Kafka, Temporal, gRPC
@@ -32,14 +32,14 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Dock
 ## Professional Experience
 
 ### Senior Blockchain Developer
-**[Apybara (Coinbase partner)](https://www.staking.xyz/)** - *ZeroKnowledge DeFi infrastructure* | *06/2024—06/2025*
+**[Apybara (Coinbase partner)](https://www.staking.xyz/)** - *ZeroKnowledge DeFi infrastructure* | *06/2024-06/2025*
 - Built staking tools for a zero-knowledge proof blockchain (**Aleo**), serving over **2,000+ active users**
 - Architected a **microservice** infrastructure using **gRPC** and **Temporal** for inter-service communication, achieving **sub-100ms** response times
 - Enhanced protocol design and security by analyzing major DeFi protocols, including **Lido**, **Uniswap**, and **Pondo**
 - Operated and maintained validators for **Aleo**, **Ethereum**, and **Cosmos** networks with **99.8% uptime**
 
 ### Lead Software Engineer
-**[Zion Payment](https://zionpayment.com/)** - *Crypto payment solutions* | *05/2022—05/2024*
+**[Zion Payment](https://zionpayment.com/)** - *Crypto payment solutions* | *05/2022-05/2024*
 - Architected and implemented a scalable **microservice** architecture using **Golang**, handling **1,000+ daily transactions**
 - Integrated payment processing with **12+ blockchain networks** (**Ethereum**, **Bitcoin**, **Tron**, **XRP**), achieving **99.9% uptime**
 - Developed and maintained a **React/TypeScript** frontend serving **5,000+ active users**
@@ -48,7 +48,7 @@ AWS, Google Cloud, DigitalOcean, Monorepo, Microservices, Kubernetes (K8s), Dock
 - Led and mentored a **cross-functional team of 8** developers; upskilled **3 junior** developers to mid-level roles
 
 ### Lead Blockchain Developer
-**[THORSwap](https://www.thorswap.finance/)** - *Cross-chain DEX on THORChain* | *09/2021—04/2022*
+**[THORSwap](https://www.thorswap.finance/)** - *Cross-chain DEX on THORChain* | *09/2021-04/2022*
 - Migrated legacy **monolith** to **microservices** using **Golang**, achieving **90% cost reduction**
 - Architected and developed blockchain-specific **microservices** for cross-chain swapping functionality
 - Implemented **event-driven** communication using **Kafka** and **Confluent**, indexing **100,000+ daily transactions**
