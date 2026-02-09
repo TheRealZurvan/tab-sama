@@ -115,7 +115,7 @@ GitHub Actions, Prometheus, Grafana, HashiCorp Vault, Elastic (ELK) Stack, Linux
 **Tech:** JavaScript, Cryptography
 
 ### [Layer](https://layer.cafe/)
-*Distributed data platform | Freelance | 2023*
+*Online mind mapping and task manager | Freelance | 2023*
 - Designed backend data models using a **graph-based architecture** to support complex relationship queries
 - Implemented an **event-driven pipeline** using **Kafka** for data propagation and indexing
 - Designed and operated a **hot-warm-cold storage architecture** leveraging **Elasticsearch** to optimize latency and cost
