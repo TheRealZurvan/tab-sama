@@ -12,7 +12,7 @@
 
 ## Professional Summary
 
-Senior backend and distributed systems engineer with 8+ years of experience building high‑throughput, fault‑tolerant platforms in production. Specialized in Go‑based microservices, event‑driven architectures, and long‑running workflow orchestration for financial and blockchain systems.
+Senior backend and distributed systems engineer with 10+ years of experience building high‑throughput, fault‑tolerant platforms in production. Specialized in Go‑based microservices, event‑driven architectures, and long‑running workflow orchestration for financial and blockchain systems.
 
 Experienced in designing and operating infrastructure handling millions of transactions, with a strong focus on correctness, observability, and failure resilience. Background spans payments, blockchain infrastructure, and data platforms, with hands‑on ownership from system design through production operations.
 
