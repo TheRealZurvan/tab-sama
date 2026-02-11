@@ -1,21 +1,8 @@
-<div align="center">
-  <img src="res/coding.gif" width="400" />
-  <h1>Tab Madi</h1>
-  <p><i>Distilling complexity into elegant distributed systems.</i></p>
-  <code>systemctl status engineer@tabmadi</code>
-  <br/><br/>
-</div>
-
----
-
-### 🟢 System Status: Active
-
 ```yaml
 identity:
   name: Tab Madi
-  type: human/backend-engineer
+  type: human/software-engineer
   uptime: since 1992
-  location: Oman
 
 specs:
   core: [ "Distributed Systems", "Blockchain Infrastructure", "High-Load Backend" ]
