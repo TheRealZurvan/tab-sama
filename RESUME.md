@@ -1,9 +1,9 @@
 # Mojtaba "Tab" Ahmadi
 **Senior Backend & Distributed Systems Engineer**
 
-📧 xojtaba@gmail.com |
+📧 tabmadi@proton.me |
 📱 +968 92212401 |
-🔗 [LinkedIn](https://linkedin.com/in/tab-madi) |
+🔗 [LinkedIn](https://linkedin.com/in/tabmadi) |
 🐙 [GitHub](https://github.com/TheRealZurvan) | 
 🤖 [Stackoverflow](https://stackoverflow.com/users/4155138/zurvan) |
 📍 Oman
