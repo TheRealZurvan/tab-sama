@@ -2,10 +2,7 @@
   <img src="res/coding.gif" width="400" />
   <h1>Tab Madi</h1>
   <p><i>Distilling complexity into elegant distributed systems.</i></p>
-
-  <code>
-    systemctl status engineer@tabmadi
-  </code>
+  <code>systemctl status engineer@tabmadi</code>
   <br/><br/>
 </div>
 
